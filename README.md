@@ -50,5 +50,5 @@
     <li>Animation effects using CSS to enhance user experience</li>
 </ul>
 
-<p>(C) Copyright 2023 Harshit Ethic. 
+<p>(C) Copyright 2023 HarshitEthic | HARSHIT SHARMA 
 Visit my site <a href="https://harshitethic.in">https://harshitethic.in</a> for more information.</p>
